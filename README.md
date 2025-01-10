@@ -1,4 +1,4 @@
-#**Description for the Java Program: Rock-Paper-Scissors Game**
+# **Description for the Java Program: Rock-Paper-Scissors Game**
 
 
 This Java program is a simple implementation of the classic Rock-Paper-Scissors game where the player competes against the computer in a best-of-five matches tournament. The program uses the Scanner class for user input and the Random class to generate random moves for the computer.
